@@ -60,9 +60,7 @@ class Stopwatch:
         else:
             pass
 
-
 s=Stopwatch()
-
 
 root = Tk()
 
